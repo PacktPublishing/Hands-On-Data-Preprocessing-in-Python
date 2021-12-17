@@ -50,7 +50,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products 
 * Learn Amazon SageMaker - Second Edition [[Packt]](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950) [[Amazon]](https://www.amazon.com/dp/1801817952)
 
-* he Data Science Workshop - Second Edition [[Packt]](https://www.packtpub.com/product/the-data-science-workshop-second-edition/9781800566927) [[Amazon]](https://www.amazon.com/dp/1800566921)
+* The Data Science Workshop - Second Edition [[Packt]](https://www.packtpub.com/product/the-data-science-workshop-second-edition/9781800566927) [[Amazon]](https://www.amazon.com/dp/1800566921)
 
 ## Get to Know the Author
 **Roy Jafari**
