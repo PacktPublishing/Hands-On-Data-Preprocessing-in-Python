@@ -9,7 +9,7 @@ This is the code repository for [Hands-On Data Preprocessing in Python](https://
 ## What is this book about?
 Data preprocessing is the first step in data visualization, data analytics, and machine learning, where data is prepared for analytics functions to get the best possible insights. Around 90% of the time spent on data analytics, data visualization, and machine learning projects is dedicated to performing data preprocessing.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: <
 * Use Python to perform analytics functions on your data
 * Understand the role of databases and how to effectively pull data from databases
 * Perform data preprocessing steps defined by your analytics goals
