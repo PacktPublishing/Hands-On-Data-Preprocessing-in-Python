@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
-**Chapter 5 - Issue – page 126:** The code chunk under Chapter 5 Data Visualization, Subsection Example of comparing populations using boxplots (page 126) is misplaced. The correct chunk of code can be found on the dedicated GitHub of the book. Also, this is the correct code:
+**Chapter 5 - page 126:** The code chunk under Chapter 5 Data Visualization, Subsection Example of comparing populations using boxplots (page 126) is misplaced. The correct chunk of code can be found on the dedicated GitHub of the book. Also, this is the correct code:
 
 ```
 income_possibilities = adult_df.income.unique()
@@ -67,6 +67,31 @@ plt.boxplot(dataForBox_dic.values(),vert=False)
 plt.yticks([1,2],income_possibilities)
 plt.show()
 ```
+
+**Chapter 6 - page 166:** The following code chunk which can be found in Chapter 6, Prediction, Example of applying linear regression to perform regression analysis (page 166) has an error.
+
+```
+X = ['P_Football_Performance','P_2SMA']
+Y = 'N_Applications'
+```
+
+The correct chunk of code:
+
+```
+X = ['P_Football_Performance','SMAn2']
+Y = 'N_Applications'
+```
+
+The code in the GitHub repository is correct.
+
+**Chapter 12 - page 380:** The first sentence in Exercise 5 of Chapter 12 (page 380) should be:
+
+“Recreate Figure 5.23 from Chapter 5, Data Visualization, but instead of using WH Report_preprocessed.csv, integrate the following three files yourself first: WH Report.csv, populations.csv, and Countries.csv.”
+
+Instead of 
+
+“Recreate Figure 5.20 from Chapter 5, Data Visualization, but instead of using WH Report_preprocessed.csv, integrate the following three files yourself first: WH Report.csv, populations.csv, and Countries.csv.”
+
 
 ## Get to Know the Author
 **Roy Jafari**
