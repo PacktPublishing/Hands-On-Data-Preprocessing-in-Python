@@ -52,6 +52,24 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * The Data Science Workshop - Second Edition [[Packt]](https://www.packtpub.com/product/the-data-science-workshop-second-edition/9781800566927) [[Amazon]](https://www.amazon.com/dp/1800566921)
 
+## Errata
+
+**Chapter 5 - Issue – page 126 **
+
+The code chunk under Chapter 5 Data Visualization, Subsection Example of comparing populations using boxplots (page 126) is misplaced. The correct chunk of code can be found on the dedicated GitHub of the book. Also, this is the correct code:
+
+`
+income_possibilities = adult_df.income.unique()
+dataForBox_dic= {}
+for poss in income_possibilities:
+    BM = adult_df.income == poss
+    dataForBox_dic[poss] = adult_df[BM]['education-num']
+    
+plt.boxplot(dataForBox_dic.values(),vert=False)
+plt.yticks([1,2],income_possibilities)
+plt.show()
+`
+
 ## Get to Know the Author
 **Roy Jafari**
 , Ph.D. is an assistant professor of business analytics at the University of Redlands.
