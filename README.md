@@ -54,9 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
-**Chapter 5 - Issue – page 126 **
-
-The code chunk under Chapter 5 Data Visualization, Subsection Example of comparing populations using boxplots (page 126) is misplaced. The correct chunk of code can be found on the dedicated GitHub of the book. Also, this is the correct code:
+**Chapter 5 - Issue – page 126:** The code chunk under Chapter 5 Data Visualization, Subsection Example of comparing populations using boxplots (page 126) is misplaced. The correct chunk of code can be found on the dedicated GitHub of the book. Also, this is the correct code:
 
 ```
 income_possibilities = adult_df.income.unique()
