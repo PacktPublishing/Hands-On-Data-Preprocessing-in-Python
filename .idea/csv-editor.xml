@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Chapter12/songAttributes_1999-2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Chapter14/WH Report_preprocessed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
