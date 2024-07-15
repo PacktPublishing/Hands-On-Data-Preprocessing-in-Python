@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Python Data Science Handbook/state-abbrevs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python Data Science Handbook/state-population.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
