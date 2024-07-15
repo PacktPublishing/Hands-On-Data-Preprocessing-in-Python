@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Chapter02/Apple Stock.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Chapter12/songAttributes_1999-2019.csv">
           <value>
             <Attribute>
@@ -18,6 +25,20 @@
           </value>
         </entry>
         <entry key="/Chapter14/WH Report_preprocessed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python Data Science Handbook/Apple Stock.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Python Data Science Handbook/births.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
